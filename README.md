@@ -1,4 +1,4 @@
 # regras
 
-<a href="regras/PolíticaPrivacidade.html"></a>
+<a href="regras/PolíticaPrivacidade.html">Política</a>
  
