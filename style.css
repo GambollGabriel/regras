@@ -1,0 +1,21 @@
+@charset "UTF-8";
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-decoration: underline;
+}
+.informacoes{
+    max-width: 600px;
+    margin: auto;
+}
+footer{
+     text-align: center;
+}
+img{
+    width: 30px;  
+}
